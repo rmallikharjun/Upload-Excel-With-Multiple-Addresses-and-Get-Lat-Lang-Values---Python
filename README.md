@@ -1,4 +1,4 @@
-## Uploading and processing the Excel file in Django
+## Uploading with addresses and processing the Excel file and get lat lang values
 
 - Clone this repo to your system.
 
@@ -8,12 +8,9 @@
 
 - Start the python server, `python manage.py runserver`.
 
-- Go to `localhost:8000` and upload the `user_data.xls` file.
+- Go to `localhost:8000` and upload the `address-sample-data.xlsx` file.
 
-- Content will be displayed on page.
+- One file will be download and that is the file which you are looking for it.
 
 - Refer below article for detailed information:
-
-    http://thepythondjango.com/upload-process-excel-file-django/
-
-![alt text](https://github.com/anuragrana/excel-file-upload-django/blob/master/excel-django.png)
+	soon
