@@ -10,7 +10,10 @@
 
 - Go to `localhost:8000` and upload the `address-sample-data.xlsx` file.
 
-- One file will be download and that is the file which you are looking for it.
+- If your provided data is correct the download will happen with the following details
+	- Address
+	- Formatted address
+	- Latitude
+	- Longitude
 
-- Refer below article for detailed information:
-	soon
+
